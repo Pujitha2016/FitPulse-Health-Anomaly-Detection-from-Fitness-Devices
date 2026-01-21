@@ -3,3 +3,7 @@ fastapi
 uvicorn
 pandas
 plotly
+python-multipart
+scikit-learn
+prophet
+tsfresh
