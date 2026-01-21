@@ -4,7 +4,6 @@ Overview:
 
 This project focuses on analyzing time-series health data generated from fitness watch devices such as Fitbit, Apple Watch, and other wearables. These devices continuously record biometric data including heart rate, sleep duration, step count, and physical activity levels. Although this data contains valuable insights, users and healthcare professionals often overlook subtle early signs of health anomalies. This system applies anomaly detection techniques to automatically flag unusual health patterns and supports personalized preventative healthcare.
 
-FitPulse Health Anomaly Detecti…
 
 Objective:
 
