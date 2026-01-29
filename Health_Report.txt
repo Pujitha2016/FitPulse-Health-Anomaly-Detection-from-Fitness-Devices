@@ -1,0 +1,19 @@
+SUMMARY:
+FitPulse Analysis Log
+========================
+Wellness Score: 83/100
+avg_steps: 11053
+avg_sleep: 6.5
+avg_heart_rate: 80
+- Elevated Resting HR (>90): Stress Management: Guided breathing.
+- Insufficient Sleep (<6h): Sleep Hygiene: Advance bedtime 30 mins.
+- Sedentary Behavior (<3k steps): Move More: Take 5 min walks hourly.
+- Unusual Pattern (DBSCAN): Monitor closely.
+
+RECENT LOGS:
+user_id       date  steps    sleep  heart_rate level_0  heart_rate__sum_values  heart_rate__median  heart_rate__mean  heart_rate__length  heart_rate__standard_deviation  heart_rate__variance  heart_rate__root_mean_square  heart_rate__maximum  heart_rate__absolute_maximum  heart_rate__minimum  is_ml_anomaly
+    100 2023-12-27  10905 6.500790        96.0     100                   566.0                94.5         94.333333                 6.0                        2.494438              6.222222                     94.366308                 98.0                          98.0                 90.0           True
+    100 2023-12-28   2245 7.652822        74.0     100                   550.0                94.5         91.666667                 6.0                        8.055364             64.888889                     92.019925                 98.0                          98.0                 74.0          False
+    100 2023-12-29  11892 7.173268        67.0     100                   519.0                93.5         86.500000                 6.0                       11.528949            132.916667                     87.264922                 96.0                          96.0                 67.0          False
+    100 2023-12-30  12967 4.011179        61.0     100                   486.0                83.5         81.000000                 6.0                       14.200939            201.666667                     82.235434                 96.0                          96.0                 61.0          False
+    100 2023-12-31  14667 6.652888        66.0     100                   457.0                70.5         76.166667                 6.0                       13.532882            183.138889                     77.359550                 96.0                          96.0                 61.0          False
